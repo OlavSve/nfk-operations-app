@@ -1,5 +1,5 @@
 /* NFK Operations - bakgrunnsskript v8.5: nett først, hurtiglager som reserve */
-const LAGER = "nfk-operations-v8-5";
+const LAGER = "nfk-operations-v8-10";
 const GRUNN = ["./NFK_Operations.html", "./manifest.webmanifest", "./ikon-192.png", "./ikon-512.png"];
 
 self.addEventListener("install", h => {
